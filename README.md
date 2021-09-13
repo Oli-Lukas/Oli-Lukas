@@ -1,18 +1,18 @@
 ## Olá 👋:thumbsup::smile:
-Olá meu nome é Lucas, atualmente sou estudante de Análise e Desenvolvimento de Sistemas no IFPE - Campus Recife.
+Olá meu nome é Lucas, atualmente sou estudante de Análise e Desenvolvimento de Sistemas no IFPE - Campus Recife. Sou autodidata e tenho demasiado interesse na área de
+desenvolvimento de software. Gosto de aprender sobre tecnologias e boas práticas. Abaixo uma lista de tecnologias que estou aprendendo e praticando:
 
-## Conhecimentos:
 * HTML;
 * CSS;
-* JavaScript;
-* TypeScript;
+* JavaScript/TypeScript;
+* Node;
 * C;
-* C#;
-* Node.
+* Python.
 
 ## Redes Sociais:
 * [Facebook](https://www.facebook.com/profile.php?id=100052102813442);
 * [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-6007191a6/).
+
 <!--
 **Oli-Lukas/Oli-Lukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
