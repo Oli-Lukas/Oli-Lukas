@@ -1,6 +1,6 @@
-## Olá 👋:thumbsup::smile:
-Olá meu nome é Lucas, atualmente sou estudante de Análise e Desenvolvimento de Sistemas no IFPE - Campus Recife. Sou autodidata e tenho demasiado interesse na área de
-desenvolvimento de software. Gosto de aprender sobre tecnologias e boas práticas. Abaixo uma lista de tecnologias que estou aprendendo e praticando:
+## Hello There 👋:thumbsup::smile:
+Hello! My name is Lucas, currently I'm student of System Analysis and Development at IFPE - Campus Recife. I am autodidact and I have too much interest in Software Development
+area. I like to learn about technology and programming best practices. Below is a list of technologies I'm learning and practicing:
 
 * HTML;
 * CSS;
@@ -9,7 +9,7 @@ desenvolvimento de software. Gosto de aprender sobre tecnologias e boas prática
 * C;
 * Python.
 
-## Redes Sociais:
+## Social Networks:
 * [Facebook](https://www.facebook.com/profile.php?id=100052102813442);
 * [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-6007191a6/).
 
