@@ -10,7 +10,6 @@ area. I like to learn about technology and programming best practices. Below is 
 * Python.
 
 ## Social Networks:
-* [Facebook](https://www.facebook.com/profile.php?id=100052102813442);
 * [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-6007191a6/).
 
 <!--
