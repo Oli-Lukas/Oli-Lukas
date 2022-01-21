@@ -9,8 +9,9 @@ area. I like to learn about technology and programming best practices. Below is 
 * C;
 * Python.
 
-## Social Networks:
+## Networks:
 * [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-6007191a6/).
+* [HackerRank](https://www.hackerrank.com/Oli_Lukas).
 
 <!--
 **Oli-Lukas/Oli-Lukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
