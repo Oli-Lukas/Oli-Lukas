@@ -1,5 +1,5 @@
 ## Hello There 👋:thumbsup::smile:
-Hello! My name is Lucas, currently I'm student of System Analysis and Development at IFPE - Campus Recife. I am autodidact and I have too much interest in Software Development
+Hello! My name is Lucas, currently I'm student of Systems Analysis and Development at IFPE - Campus Recife. I am autodidact and I have too much interest in Software Development
 area. I like to learn about technology and programming best practices. Below is a list of technologies I'm learning and practicing:
 
 * HTML;
