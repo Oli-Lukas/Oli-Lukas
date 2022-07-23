@@ -6,7 +6,7 @@ area. I like to learn about technology and programming best practices. Below is 
 * CSS;
 * JavaScript/TypeScript;
 * Node;
-* C;
+* Deno;
 * Python.
 
 ## Networks:
