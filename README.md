@@ -27,8 +27,8 @@ Software Development area. I like to learn about technology and programming best
 
 <h2 align="center" >:bar_chart: My Stats</h2>
 <a href="https://github.com/Oli-Lukas">
-  <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=Oli-Lukas&show_icons=true&theme=dark" />
-  <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oli-Lukas&hide=c,c++,arduino&layout=compact&theme=dark" />
+  <img height="140em" align="left" src="https://github-readme-stats.vercel.app/api?username=Oli-Lukas&show_icons=true&line_height=17&theme=dark" />
+  <img height="140em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oli-Lukas&hide=c,c++,arduino&layout=compact&theme=dark" />
 </a>
 
 <!--
