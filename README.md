@@ -1,4 +1,4 @@
-<img src="/images/computer-meme" width="100%" >
+<img src="/images/computer-meme.png" width="100%" >
 
 <h1 align="center" >Hello There, I'm Lucas Oliveira</h1>
 Hello! My name is Lucas, currently I'm student of Systems Analysis and Development at IFPE - Campus Recife. I am autodidact and I have too much interest in
