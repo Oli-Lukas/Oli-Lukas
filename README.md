@@ -13,6 +13,7 @@ Software Development area. I like to learn about technology and programming best
   <img src="/images/javascript.svg" width="50px" height="50px" >
   <img src="/images/typescript.svg" width="50px" height="50px" >
   <img src="/images/nodejs.svg"     width="50px" height="50px" >
+  <img src="/images/deno.svg"       width="50px" height="50px" >
   <img src="/images/react.svg"      width="50px" height="50px" >
   <img src="/images/python.svg"     width="50px" height="50px" >
 </div>
