@@ -14,8 +14,8 @@ Software Development area. I like to learn about technology and programming best
 <br>  
 
 ## :earth_americas: My Networks:
-<a href="https://www.linkedin.com/in/lucas-oliveira-6007191a6/" ><img src="/images/linkedin.svg" width="50px" height="50px" ></a>
-<a href="https://www.hackerrank.com/Oli_Lukas" ><img src="/images/hackerrank.png" width="50px" height="50px" ></a>
+<a href="https://www.linkedin.com/in/lucas-oliveira-6007191a6/" target="_blank" ><img src="/images/linkedin.svg" width="50px" height="50px" ></a>
+<a href="https://www.hackerrank.com/Oli_Lukas" target="_blank" ><img src="/images/hackerrank.png" width="50px" height="50px" ></a>
 <br>
 <br>  
 
