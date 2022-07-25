@@ -6,7 +6,7 @@ Software Development area. I like to learn about technology and programming best
 <br>
 <br>  
 
-<h2 align="center" >:computer: My Stack</h2>
+<h2 align="center" >:computer: Learning and Practicing</h2>
 <div align="center" >
   <img src="/images/html-5.svg"     width="50px" height="50px" >
   <img src="/images/css3.svg"       width="50px" height="50px" >
